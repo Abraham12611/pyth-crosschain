@@ -14,5 +14,5 @@ subdir = "sui/wormhole"
 rev = "82d82bffd5a8566e4b5d94be4e4678ad55ab1f4f"
 
 [addresses]
-# pyth = "0xb53b..."
+pyth = "0xabf837e98c26087cba0883c0a7a28326b1fa3c5e1e2c5abdb486f9e8f594c837"
 wormhole = "0x5306f64e312b581766351c07af79c72fcb1cd25147157fdc2f8ad76de9a3fb6a"
